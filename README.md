@@ -5,12 +5,12 @@ ScreenShots:
 
 <img src="https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_1.png" width="200">
 
-![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_2.png)
+<img src="https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_2.png" width="200">
 
-![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_3.png)
+<img src="https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_3.png" width="200">
 
-![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_4.png)
+<img src="https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_4.png" width="200">
 
-![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_5.png)
+<img src="https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_5.png" width="200">
 
-![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_6.png)
+<img src="https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_6.png" width="200">
