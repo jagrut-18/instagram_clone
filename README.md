@@ -2,7 +2,10 @@
 Instagram UI Clone
 
 ScreenShots:
-![screenshot](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_1.png)![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_2.png)
+
+<img src="https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_1.png" width="200">
+
+![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_2.png)
 
 ![alt text](https://github.com/jagrut-18/instagram_clone/blob/master/screenshots/Screenshot_3.png)
 
